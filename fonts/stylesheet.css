@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Amaranth';
+    src: url('Amaranth-Italic.woff2') format('woff2'),
+        url('Amaranth-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amaranth';
+    src: url('Amaranth-Bold.woff2') format('woff2'),
+        url('Amaranth-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amaranth';
+    src: url('Amaranth-BoldItalic.woff2') format('woff2'),
+        url('Amaranth-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Soulmaze';
+    src: url('MADESoulmaze-Italic.woff2') format('woff2'),
+        url('MADESoulmaze-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('AbhayaLibre-Bold.woff2') format('woff2'),
+        url('AbhayaLibre-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Soulmaze Outline';
+    src: url('MADESoulmazeOutline-Italic.woff2') format('woff2'),
+        url('MADESoulmazeOutline-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Soulmaze Outline';
+    src: url('MADESoulmazeOutline.woff2') format('woff2'),
+        url('MADESoulmazeOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Soulmaze';
+    src: url('MADESoulmaze.woff2') format('woff2'),
+        url('MADESoulmaze.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amaranth';
+    src: url('Amaranth-Regular.woff2') format('woff2'),
+        url('Amaranth-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('AbhayaLibre-ExtraBold.woff2') format('woff2'),
+        url('AbhayaLibre-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Abril Fatface';
+    src: url('AbrilFatface-Regular.woff2') format('woff2'),
+        url('AbrilFatface-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('AbhayaLibre-Medium.woff2') format('woff2'),
+        url('AbhayaLibre-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('AbhayaLibre-Regular.woff2') format('woff2'),
+        url('AbhayaLibre-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('AbhayaLibre-SemiBold.woff2') format('woff2'),
+        url('AbhayaLibre-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
