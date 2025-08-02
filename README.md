@@ -1,6 +1,6 @@
 # 🌐 Old Portfolio 2019 – Theo Blondel
 
-Un ancien portfolio que j’avais développé en [2023] pour présenter mes projets créatifs.  
+Un ancien portfolio que j’avais développé en [2019] pour présenter mes projets créatifs.  
 Je le rends public pour archive, référence et inspiration.
 
 > ⚠️ Ce portfolio n’est plus maintenu.  
@@ -16,10 +16,10 @@ Je le rends public pour archive, référence et inspiration.
 
 ## 🧰 Stack technique
 
-- HTML / CSS (ou React, Vite, Tailwind → à adapter selon ton code)
+- HTML / CSS / JS / PHP
 - Responsive Design
 - Animations simples
-- Hébergé sur Netlify (ou autre, si c’était le cas)
+
 
 ---
 
@@ -27,6 +27,5 @@ Je le rends public pour archive, référence et inspiration.
 
 ```bash
 git clone https://github.com/theoblondel/old-portfolio1.git
-cd old-portfolio
-npm install     # ou pas nécessaire selon le projet
-npm run dev     # ou ouvre index.html dans ton navigateur
+cd old-portfolio   
+ # ou ouvre index.html dans ton navigateur
