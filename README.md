@@ -1,4 +1,4 @@
-# 🌐 Old Portfolio 2023 – Theo Blondel
+# 🌐 Old Portfolio 2019 – Theo Blondel
 
 Un ancien portfolio que j’avais développé en [2023] pour présenter mes projets créatifs.  
 Je le rends public pour archive, référence et inspiration.
@@ -26,7 +26,7 @@ Je le rends public pour archive, référence et inspiration.
 ## 🚀 Installation locale
 
 ```bash
-git clone https://github.com/theoblondel/old-portfolio.git
+git clone https://github.com/theoblondel/old-portfolio1.git
 cd old-portfolio
 npm install     # ou pas nécessaire selon le projet
 npm run dev     # ou ouvre index.html dans ton navigateur
